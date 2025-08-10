@@ -1,2 +1,7 @@
 # Ignorar APIs
 /phpapi/
+
+/images/students/
+
+/.htaccess
+/.htaccess.no_htaccess.phpupgrader
